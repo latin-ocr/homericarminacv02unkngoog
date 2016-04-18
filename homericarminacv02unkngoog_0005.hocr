@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./homericarminacv02unkngoog_0005.png"; bbox 0 0 2734 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 135 2110 145 2500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 135 2110 145 2500">
+     <span class='ocr_line' id='line_1_1' title="bbox 135 2110 145 2500; baseline 97.5 -390"><span class='ocrx_word' id='word_1_1' title='bbox 135 2110 142 2130; x_wconf 66' lang='lat'>0·</span> <span class='ocrx_word' id='word_1_2' title='bbox 135 2146 140 2178; x_wconf 66' lang='grc'>1.</span> <span class='ocrx_word' id='word_1_3' title='bbox 135 2200 145 2251; x_wconf 54' lang='grc' dir='ltr'>ινδ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 135 2267 145 2420; x_wconf 56' lang='lat' dir='ltr'>&#39;&#39;utu&#39;&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 137 2439 144 2500; x_wconf 60' lang='grc' dir='ltr'>..τιΔ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 3775 19 3886">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 3775 19 3886">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 3775 19 3886; baseline -111 0"><span class='ocrx_word' id='word_1_6' title='bbox 1 3775 19 3832; x_wconf 61' lang='grc' dir='ltr'>,ιιιε</span> <span class='ocrx_word' id='word_1_7' title='bbox 0 3841 18 3886; x_wconf 58' lang='lat'>¹:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3899 17 4156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 3899 17 4156">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 3899 17 4156; baseline -257 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 3899 16 3956; x_wconf 39' lang='lat' dir='ltr'>1P⁴</span> <span class='ocrx_word' id='word_1_9' title='bbox 1 3975 17 4031; x_wconf 79' lang='grc' dir='ltr'>ιΙΙΙ</span> <span class='ocrx_word' id='word_1_10' title='bbox 0 4038 16 4102; x_wconf 61' lang='grc' dir='ltr'>.ΡΙΙ,</span> <span class='ocrx_word' id='word_1_11' title='bbox 0 4109 16 4156; x_wconf 65' lang='grc' dir='ltr'>ΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 149 4589 156 4766">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 149 4589 156 4766">
+     <span class='ocr_line' id='line_1_4' title="bbox 149 4589 156 4766"><span class='ocrx_word' id='word_1_12' title='bbox 151 4589 154 4605; x_wconf 68' lang='grc' dir='ltr'>ι,</span> <span class='ocrx_word' id='word_1_13' title='bbox 149 4620 156 4691; x_wconf 63' lang='grc' dir='ltr'>,ΙΙ</span> <span class='ocrx_word' id='word_1_14' title='bbox 149 4702 156 4766; x_wconf 72' lang='lat' dir='ltr'>Itu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
